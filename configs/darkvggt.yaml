@@ -1,0 +1,9 @@
+enable_point: false
+
+enable_gstr: true
+gstr_rank_s: 96
+gstr_rank_p: 192
+gstr_last_k_blocks: 8
+
+gstr_router_delta_znorm: false
+gstr_router_demean_lambda: 0.0
