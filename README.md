@@ -5,7 +5,7 @@
 
   <hr>
 
-  <img src="assets/images/neurips2026.png" alt="NeurIPS 2026" width="320"/>
+  <picture><img src="assets/images/neurips2026.png" alt="NeurIPS 2026" width="342"/></picture>
 
   <p>
     <a href="https://arxiv.org/abs/2606.11326"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
