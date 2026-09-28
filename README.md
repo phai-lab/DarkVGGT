@@ -3,9 +3,9 @@
 
   <h3>Seeing Through Darkness Using Thermal Geometry without Daylight Tax</h3>
 
-  <img src="assets/gifs/teaser.gif" alt="DarkVGGT teaser" width="100%"/>
-
   <hr>
+
+  <img src="assets/images/neurips2026.png" alt="NeurIPS 2026" width="320"/>
 
   <p>
     <a href="https://arxiv.org/abs/2606.11326"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
@@ -27,6 +27,10 @@
 </div>
 
 ## Overview
+
+<p align="center">
+  <img src="assets/gifs/teaser.gif" alt="DarkVGGT teaser" width="100%"/>
+</p>
 
 <p align="justify">
 <strong>DarkVGGT</strong> is an RGB-Thermal feed-forward framework for robust 3D geometry estimation in low-visibility environments. Our model leverages complementary thermal pathways and selective thermal-to-RGB routing to recover reliable geometric cues under degraded RGB conditions. This improves dark-scene reconstruction while largely preserving VGGT’s well-lit performance.
